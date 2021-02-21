@@ -1,0 +1,14 @@
+.numBlock  {
+    width: 200px;
+    height: 100px;
+    margin: 100px auto;
+}
+
+.btn-success {
+    margin-bottom: 30px;
+}
+
+.number {
+    font-size: 18px;
+    margin-left: 5px;
+}
